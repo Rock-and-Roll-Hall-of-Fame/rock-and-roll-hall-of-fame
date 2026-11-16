@@ -1,2 +1,1 @@
-# rock-and-roll-hall-of-fame
-Pointer to github.com/rockhallweb
+[Rock & Roll Hall of Fame on GitHub](https://github.com/rockhallweb)
